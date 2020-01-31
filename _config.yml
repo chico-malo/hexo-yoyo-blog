@@ -3,10 +3,10 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: yoyo
+title: Wammy's House
 subtitle: "Hello World~"
-description: ""
-keywords:
+description: "这是我的个人博客网站"
+keywords: 个人网站_hexo_yoyo
 author: yoyo
 language: zh-CN
 timezone: ""

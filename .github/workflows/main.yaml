@@ -1,6 +1,6 @@
 name: Hexo
 
-#on: [push]
+on: [push]
 
 jobs:
   build:

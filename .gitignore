@@ -4,7 +4,11 @@
 .DS_Store
 db.json
 *.log
+*.xml
+
 node_modules/
 public/
 .deploy*/
 .vscode/
+.idea/
+
